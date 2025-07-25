@@ -37,7 +37,7 @@ Choose your path below based on what you're here to explore:
 
 EthicBasket thrives through decentralized contribution. If you're building with us, please follow our [Contribution Guide](contributing.md) and submit proposals aligned with sovereignty principles.
 
-For roadmap discussions or modular updates, reach out via our [community governance portal](https://nexascend.ethicbasket.dev) or submit updates directly to the [GitHub repository](https://github.com/ethicbasket/ethicbasket-docs).
+For roadmap discussions or modular updates, reach out via our [community governance portal](https://mj-nexara.github.io/nexara-protocol) or submit updates directly to the [GitHub repository](https://github.com/mj-nexara/ethicbasket).
 
 ---
 
