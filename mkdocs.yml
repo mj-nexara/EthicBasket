@@ -1,0 +1,29 @@
+site_name: EthicBasket Docs
+theme:
+  name: material
+  palette:
+    primary: green
+    accent: amber
+nav:
+  - Home: index.md
+  - Products:
+      - Digital: products/digital/nexascend-cli.md
+      - Vital Assets:
+          - LifeFuel:
+              - Honey: products/vital-assets/lifefuel/honey.md
+              - BeetRolls: products/vital-assets/lifefuel/beetrolls.md
+          - Symbolic Threads: products/vital-assets/symbolic-threads.md
+      - Governance Modules: products/governance/constitution-kit.md
+  - Governance:
+      - Audit Policies: governance/audit-policies.md
+      - Refund Rules: governance/refund-rules.md
+  - Observability:
+      - Campaigns: observability/campaigns.md
+      - Referral Graphs: observability/referral-graphs.md
+      - Commission Ledger: observability/commission-ledger.md
+  - Interfaces:
+      - API Reference: interfaces/API-endpoints.md
+      - UI Dashboard Spec: interfaces/dashboard-ui.md
+  - LumID Integrations:
+      - Role Mapping: lumid-integrations/role-mapping.md
+      - Validator Logic: lumid-integrations/validator-logic.md
